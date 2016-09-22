@@ -1,0 +1,58 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at C:\Users\CarlosS\PycharmProjects\Agiles\env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\CarlosS\PycharmProjects\Agiles\env\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/Agiles/env/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/Agiles/env/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/Agiles/env" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/Agiles/env/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-919542589" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at C:\Users\CarlosS\PycharmProjects\Agiles\env (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\CarlosS\PycharmProjects\Agiles\env\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at C:\Users\CarlosS\PycharmProjects\Agiles\env (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\CarlosS\PycharmProjects\Agiles\env\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Agiles" />
+    </jdk>
+  </component>
+</application>

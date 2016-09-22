@@ -1,0 +1,12 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="C:\Python34\python.exe" />
+        <option value="C:\Users\CarlosS\AppData\Local\Programs\Python\Python35\python.exe" />
+        <option value="C:\Users\CarlosS\PycharmProjects\env\Scripts\python.exe" />
+        <option value="C:\Users\CarlosS\untitled\Scripts\python.exe" />
+      </set>
+    </option>
+  </component>
+</application>
